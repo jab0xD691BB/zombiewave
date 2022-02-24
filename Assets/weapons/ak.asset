@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e78b84e130794504f86a1eda70536bfb, type: 3}
+  m_Name: ak
+  m_EditorClassIdentifier: 
+  damage: 5
+  firerate: 0.25
+  name: ak
+  sprite: {fileID: 21300000, guid: 3745d66e525b7044980eec11838e4f69, type: 3}
+  shopAndSlotSprite: {fileID: 21300000, guid: 3745d66e525b7044980eec11838e4f69, type: 3}
+  weaponIndex: 2
+  price: 3000
+  handType: 2h
+  weaponType: gun
+  isBought: 0
+  currammo: 30
+  maxAmmo: 30
+  mags: 3
+  reloadTime: 3.5
+  ammoPrice: 300

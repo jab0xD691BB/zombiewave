@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - GunBody
+  - GunSight
+  - GunBarrel
+  - GunMuzzle
+  - GunClip
+  - GunProjectile
+  - Wall
+  - GunStock
+  - SmokeTrail
+  - Spawner
+  - GunFlash
+  - reload
+  - spawner
+  - pistolInv
+  - betaInv
+  - 1
+  - 2
+  - 0
+  - hudslot
+  - bullet
+  - zombielv2
+  - spinne
+  - zombielv1
+  - slots
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - wall
+  - obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
